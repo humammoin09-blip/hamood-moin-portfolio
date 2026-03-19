@@ -19,8 +19,8 @@
 - Deep Learning & Neural Networks
 
 ## 🚀 Projects
-*(Coming Soon — Projects will be added here soon!)*
-
+1. **Iris Flower Classification** — Random Forest | Accuracy: 100%
+2. **Spam Email Detector** — Naive Bayes | Accuracy: 98.38%
 ## 📫 Contact Me
 - Email: humammoin09@gmail.com
 - Location: Lucknow, India
