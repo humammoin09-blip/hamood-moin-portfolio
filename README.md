@@ -21,6 +21,7 @@
 ## 🚀 Projects
 1. **Iris Flower Classification** — Random Forest | Accuracy: 100%
 2. **Spam Email Detector** — Naive Bayes | Accuracy: 98.38%
+3. **House Price Prediction**  -RandomForestRegressor | Accuracy: 63%
 ## 📫 Contact Me
 - Email: humammoin09@gmail.com
 - Location: Lucknow, India
