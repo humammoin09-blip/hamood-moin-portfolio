@@ -1,7 +1,7 @@
 # Hi, I'm Hamood Moin! 👋
 
 ## 🎓 About Me
-- BCA Student from Lucknow, India
+- BCA Student in third semester from Lucknow, India
 - Passionate about Artificial Intelligence & Machine Learning
 - Currently learning ML, Deep Learning & Neural Networks
 - Goal: Become an AI/ML Engineer
