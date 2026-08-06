@@ -24,4 +24,4 @@
 3. **House Price Prediction**  -RandomForestRegressor | Accuracy: 63%
 ## 📫 Contact Me
 - Email: humammoin09@gmail.com
-- Location: Lucknow, India
+- Location: Lucknow, India.
