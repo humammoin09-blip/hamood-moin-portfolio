@@ -25,3 +25,5 @@
 ## 📫 Contact Me
 - Email: humammoin09@gmail.com
 - Location: Lucknow, India.
+- Active on X and linkedin
+
