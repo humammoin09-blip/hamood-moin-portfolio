@@ -28,4 +28,7 @@
 - Active on X and linkedin
 - AI Engineer
 - DSA completed 
+- Docker complete
+- kubernetes started
+- GenAI again started
 
