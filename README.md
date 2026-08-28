@@ -31,4 +31,10 @@
 - Docker complete
 - kubernetes started
 - GenAI again started
+- GenAI will be complete within 1 month
+- AgenticAI start
+- CI/CD pipelines
+- Strong Maths 
+- Strong coding concepts
+- Strong logic building
 
