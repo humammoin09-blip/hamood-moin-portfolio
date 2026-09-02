@@ -39,4 +39,6 @@
 - Strong logic building
 - Kubernetes practiced
 - 2 post on X 
+- Comeback started 
+- SidekickAI project completed
 
