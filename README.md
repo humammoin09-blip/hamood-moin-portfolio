@@ -37,4 +37,6 @@
 - Strong Maths 
 - Strong coding concepts
 - Strong logic building
+- Kubernetes practiced
+- 2 post on X 
 
