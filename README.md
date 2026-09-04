@@ -38,6 +38,6 @@
 - Strong coding concepts
 - Strong logic building
 - Kubernetes practiced
-- 3 post on X 
+
 
 
