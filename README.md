@@ -36,7 +36,7 @@
 - CI/CD pipelines
 - Strong Maths 
 - Strong coding concepts
-- Strong logic building
+
 
 
 
