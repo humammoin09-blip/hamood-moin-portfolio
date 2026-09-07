@@ -35,7 +35,6 @@
 - AgenticAI start
 - CI/CD pipelines
 - Strong Maths 
-- Strong coding concepts
 
 
 
