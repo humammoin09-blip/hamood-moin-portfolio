@@ -32,7 +32,5 @@
 - kubernetes started
 - GenAI again started
 - GenAI will be complete within 1 month
-- AgenticAI start
-- CI/CD pipelines
-
+- Python start again
 
