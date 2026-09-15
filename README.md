@@ -33,4 +33,7 @@
 - GenAI again started
 - GenAI will be complete within 1 month
 - Python start again
+- Practiced some LC problems
+- practice English speaking
+
 
