@@ -37,5 +37,6 @@
 - practice English speaking
 - Used Dualingo for improving my English
 - I have to speak english fluently at any cost
-
+- Tomorrow I will complete OOP I hope
+- GenAI will be half complete
 
