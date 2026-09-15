@@ -35,5 +35,7 @@
 - Python start again
 - Practiced some LC problems
 - practice English speaking
+- Used Dualingo for improving my English
+- I have to speak english fluently at any cost
 
 
